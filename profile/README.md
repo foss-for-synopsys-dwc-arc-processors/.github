@@ -1,3 +1,3 @@
-![MIPS Atlas ARC® processors](MIPS_ARC_RGB.png)
+![MIPS ARC® processors](MIPS_ARC_RGB.png)
 
-**MIPS Atlas embARC is an open-source software ecosystem and developer program for MIPS Atlas ARC® processors, designed to accelerate embedded and IoT software development. It provides developers with access to open-source software frameworks, device drivers, middleware, operating systems, development tools, documentation, examples, and community resources through github. The goal is to simplify software development, improve code reuse, and shorten time-to-market for ARC processor-based systems.**
+**MIPS embARC is an open-source software ecosystem and developer program for MIPS ARC® processors, designed to accelerate embedded and IoT software development. It provides developers with access to open-source software frameworks, device drivers, middleware, operating systems, development tools, documentation, examples, and community resources through github. The goal is to simplify software development, improve code reuse, and shorten time-to-market for ARC processor-based systems.**
